@@ -1,0 +1,758 @@
+,Unnamed: 0.1,Unnamed: 0,ConstructId,ConstructName
+0,0,0,856,Use the order of operations to carry out calculations involving powers
+1,1,1,1612,Simplify an algebraic fraction by factorising the numerator
+2,2,2,2774,Calculate the range from a list of data
+3,3,3,2377,Recall and use the intersecting diagonals properties of a rectangle
+4,4,4,3387,Substitute positive integer values into formulae involving powers or roots
+5,5,5,2052,Identify a unit of area
+6,6,6,376,Convert two digit integer percentages to fractions
+7,7,7,314,Divide decimals by 10
+8,8,8,435,Subtract proper fractions with different denominators which do not share a common factor
+9,9,9,1321,Identify horizontal translations in the form f(x) = for non-trigonometric functions
+10,10,10,1414,Expand products of three binomials in the form (x + a)(x + b)(x + c)
+11,11,11,2456,Identify the net of a non-prism
+12,12,12,1756,Identify alternate angles
+13,13,13,3065,Convert from hours to minutes
+14,14,14,1505,Select the correct answer to an iteration question to the required degree of accuracy
+15,15,15,2578,Calculate the area of an equilateral triangle where the dimensions are given in the same units
+16,16,16,695,"Divide a quantity into two parts for a given a ratio, where each part is an integer"
+17,17,17,1289,Prove statements involving odd and even numbers
+18,18,18,261,Carry out missing number subtraction problems involving negative integers
+19,19,19,1623,Subtract algebraic fractions where the denominators are single terms and are not multiples of each other
+20,20,20,2306,"Given the volume of a cuboid, work out missing information"
+21,21,21,1434,Factorise a quadratic expression in the form ax² + bx + c where a is prime
+22,22,22,69,"Given the solution to one problem, deduce the answer to a related problem using the same operation"
+23,23,23,2742,Interpret sloping linear sections of a displacement-time graph
+24,24,24,3229,Solve missing number mental multiplication questions
+25,25,25,1872,Calculate speed where distance and time are in the appropriate units
+26,26,26,1576,"Given a sketch of a circle with centre at the origin, write its equation in the form x² + y² = r²"
+27,27,27,1527,Substitute negative integer values into expressions involving no powers or roots
+28,28,28,10,Count backwards in steps of of something other than one
+29,29,29,1045,Solve linear inequalities in one variable where the unknown appears on boths sides of the equation
+30,30,30,3515,Determine the function of a single function machine used to create an algebraic expression
+31,31,31,2028,Convert between cm and m
+32,32,32,1484,"Solve linear equations with the variable appearing on both sides, involving positive fractions"
+33,33,33,1560,Given a situation sketch an appropriate real life graph
+34,34,34,52,Find another power of 10 less than a given number
+35,35,35,380,Convert decimals less than 1 with 1 decimal place to percentages
+36,36,36,1273,Simplify algebraic expressions to maintain equivalence by collecting like terms involving just one linear variable
+37,37,37,410,Simplify fractions that simplify to a unit fraction
+38,38,38,1616,Add algebraic fractions where one denominator is a multiple of the other
+39,39,39,3115,Carry out a subtraction problem with positive integers where the answer is less than 0
+40,40,40,1561,Read values off a real life graph
+41,41,41,3225,Write a missing term of an ascending integer linear sequence
+42,42,42,953,"Given a gradient, state the gradient of a line parallel to it"
+43,43,43,446,Divide proper fractions in the form: Fraction ÷ Integer
+44,44,44,2440,Identify a right-angled triangle when presented non-conventionally
+45,45,45,3176,"For a given algebraic input, find the output of a function machine"
+46,46,46,3190,Represent an equation using a bar model
+47,47,47,403,"Calculate the whole amount, given a fraction of the amount"
+48,48,48,3516,Determine the input of a double function machine used to create an algebraic expression
+49,49,49,2238,Convert from years to days
+50,50,50,316,Divide decimals by 1000
+51,51,51,3279,Multiply 3 digit integers by 1 digit integers using the grid method
+52,52,52,3132,Write algebraic expressions with correct algebraic convention
+53,53,53,3346,Identify the order of rotational symmetry of a shape
+54,54,54,399,Identify non-unit fractions when part of a shape
+55,55,55,95,Complete missing number mental subtraction problems up to 100
+56,56,56,704,Represent written scenarios as ratios
+57,57,57,1961,Identify questions involving a 2D right-angled triangle that require the use of the Tangent (tan) ratio
+58,58,58,1030,Represent a linear inequality with a single tail on a numberline
+59,59,59,578,Calculate percentage of an amount mentally where the percent is greater than 100
+60,60,61,3118,Read a fraction on a scale where the required number is marked by a dash between two numbers
+61,61,62,2790,Calculate the mean from a frequency table
+62,62,63,180,Subtract integers up to 4 digits using a written method where carrying is needed
+63,63,64,1467,"Solve one-step linear equations requiring multiplication or division, involving positive decimals"
+64,64,65,1492,Solve quadratic equations using the quadratic formula where the coefficient of x² is 1 
+65,65,66,306,Subtract decimals where the numbers involved have a different number of decimal places
+66,66,67,479,Calculate the square root of a number
+67,67,68,1490,Solve quadratic equations using completing the square in the form (x + q)² + r 
+68,68,69,2942,Compare relative frequencies in order to determine which prediction is likely to be more reliable
+69,69,70,586,Calculate percentage of an amount using a calculator where the percent is an integer
+70,70,71,2908,Interpret continuous data using a line graph
+71,71,72,922,Know the equation of the axes
+72,72,73,208,Round integers to the nearest 1000
+73,73,74,1494,Solve quadratic equations using balancing
+74,74,77,960,Identify perpendicular lines written in the form y = mx + c
+75,75,78,2582,"Given the area of a parallelogram, calculate a missing dimension"
+76,76,79,3141,Solve quadratic inequalities from the graph of the quadratic
+77,77,80,2930,Fill in regions of a double Venn diagram with numbers from given information
+78,78,81,30,Order integers with a different number of digits
+79,79,82,3032,Understand inequality notation
+80,80,83,220,Round numbers greater than 1 to one significant figure
+81,81,84,920,Recognise the equations of horizontal lines from a diagram
+82,82,85,1102,Generate a descending integer linear sequence from the nth term rule
+83,83,86,424,Add proper fractions with the same denominator
+84,84,87,1017,"Given a sketch of a quadratic graph, f(x), write down the solutions to f(x) = a"
+85,85,88,2303,Calculate the volume of other prisms when the dimensions are given in the same units
+86,86,90,1781,Find missing angles in a non-special quadrilateral
+87,87,91,3136,Rearrange a quadratic equation so that it is in the correct form to be factorised
+88,88,92,690,Reduce a ratio involving two numbers to its simplest form
+89,89,93,997,"Given the sketch of a curve in the form (x + a)², work out its factorised form"
+90,90,94,1139,Recognise when a descending sequence is quadratic
+91,91,95,702,"Given information about the relationship between two parts (e.g. one part is worth 5 more than another), work out other parts"
+92,92,96,1482,"Solve linear equations with the variable appearing on both sides, with all positive integers"
+93,93,97,1742,Recognise the vertically opposite angles relationship
+94,94,98,3179,Given a sketch of a linear graph solve f(x) = n
+95,95,99,2598,"Given the perimeter, work out a missing length requiring knowledge of the geometrical properties of the shape"
+96,96,100,2869,Interpret a pie chart
+97,97,101,579,Express one quantity as a percentage of another mentally
+98,98,102,2610,"Calculate missing lengths of shapes by geometrical inference, where the lengths given are in the same units"
+99,99,103,2566,Calculate the area of a parallelogram where the dimensions are given in the same units
+100,100,105,1745,Find missing angles using vertically opposite angles
+101,101,106,2866,Calculate the sector angle on a pie chart for a given group
+102,102,107,447,Divide proper fractions in the form: Integer ÷ Fraction
+103,103,108,265,Carry out multiplication problems involving one negative integer
+104,104,109,987,Know that the factorised form of a quadratic is useful for finding where the curve crosses the x-axis
+105,105,111,3207,"Understand the terms equilateral and regular, and recognise the notation for regular polygons"
+106,106,112,3193,Express a division as a fraction
+107,107,113,1403,Multiply a single term over a bracket where the term on the outside is a number and the inside contains a linear expression
+108,108,114,1412,Expand double brackets with an extra variable outside
+109,109,115,2709,Write a given translation in vector notation
+110,110,116,3218,Find missing numbers in a fraction multiplication
+111,111,117,700,"Given information about one part, work out other parts"
+112,112,118,2571,Calculate the area of a trapezium where the dimensions are given in different units
+113,113,119,274,Carry out division  problems involving one negative integer
+114,114,120,2076,Perform calculations with areas when given in different units
+115,115,121,941,Find the gradient of a line written in the form ax + by = c
+116,116,122,2786,Compare sets of data using the range
+117,117,123,1754,Recognise the notation for parallel lines
+118,118,124,256,Carry out subtraction problems involving two negative integers 
+119,119,125,1290,Prove statements involving multiples
+120,120,128,3119,Use brackets to write function machines as calculations
+121,121,129,1525,Substitute positive integer values into expressions involving no powers or roots
+122,122,130,1151,Find the nth term rule for ascending quadratic sequences in the form ax² + bx + c
+123,123,131,1460,"Solve one-step linear equations requiring addition or subtraction, involving positive fractions"
+124,124,132,1042,Solve one-step linear inequalities in one variable where the variable appears on one side of the equation
+125,125,133,1790,Work out the size of each interior angle in a regular polygon
+126,126,134,223,Round numbers between 0 and 1 to one significant figure
+127,127,135,3319,"Solve problems involving converting between fractions, decimals and percentages"
+128,128,137,3509,Read values from piecewise functions
+129,129,139,1410,Expand two brackets with linear terms in the form (ax + b)(cx + d)
+130,130,140,1425,Factorise a single bracket containing a non-linear expression by taking out a single algebraic common factor (e.g. a)
+131,131,141,982,"Given a negative x value, find the corresponding y value for curves in the form y = x² + c"
+132,132,142,1739,Use a protractor to measure angles between 270° and 360°
+133,133,143,1440,Complete the square for expressions that end up in the form a(x + b)² + c
+134,134,144,3504,Continue a sequence involving triangle numbers
+135,135,145,445,Multiply mixed number fraction in the form: Fraction × Fraction
+136,136,146,3342,Read fractions
+137,137,147,298,Use inequality notation to order decimals with the same number of digits 
+138,138,148,369,Convert terminating decimals greater than 1 to fractions
+139,139,150,2077,Identify a unit of volume or capacity
+140,140,151,3513,Describe a term-to-term sequence
+141,141,152,206,Round integers to the nearest 10
+142,142,153,1472,"Solve two-step linear equations, with the variable on one side, involving positive fractions"
+143,143,154,1876,Calculate time where speed and distance are in the appropriate units
+144,144,155,2570,Calculate the area of a trapezium where the dimensions are given in the same units
+145,145,159,1488,Solve quadratic equations using factorisation in the form (x + a)(x + b) 
+146,146,161,1137,Use a linear sequence expressed as a pattern to make a prediction about another term in the sequence other than the next one
+147,147,162,2760,Calculate the median as an average from an even numbered list of data
+148,148,163,1428,Factorise a quadratic expression in the form x² + bx + c
+149,149,164,2574,Calculate the area of a right-angled triangle where the dimensions are given in the same units
+150,150,165,106,Triple numbers
+151,151,166,1632,Divide algebraic fractions involving non-linear expressions
+152,152,167,2008,Read an integer on a scale where the required measurement is marked by a dash between two numbers
+153,153,168,2862,Interpret a pictogram involving full symbols
+154,154,169,1533,Write a formula to describe a situation
+155,155,170,1096,"Given a description of a descending linear sequence in words, write some terms of that sequence"
+156,156,171,3273,Multiply 3 digit integers by 2 digit integers using long multiplication
+157,157,172,1101,Generate an ascending integer linear sequence from the nth term rule
+158,158,173,693,Write a given ratio in the form 1:n 
+159,159,174,957,Identify parallel lines with at least one equation written in another form
+160,160,175,2393,Recall and use the intersecting diagonals properties of a rhombus
+161,161,176,984,"Given a negative x value, find the corresponding y value for curves in the form y = x² + bx + c"
+162,162,178,400,Calculate unit fractions of an amount
+163,163,179,3291,Multiply 3 digit integers by 2 digit integers using Napier’s bones
+164,164,180,1936,Complete a symmetric figure with respect to a specific line of symmetry
+165,165,182,1437,Factorise a quadratic expression in the form x² - c
+166,166,183,3145,Calculate the area of a scalene triangle where the dimensions are given in the same units
+167,167,184,1098,Write the next term of a descending integer linear sequence
+168,168,186,26,Express words as 5 digit numbers and above 
+169,169,187,165,Carry out mental divisions when the answer leaves a remainder
+170,170,188,2646,"Reflect an object or a point in a horizontal line with the line of reflection drawn, where the line of reflection lies on the edge or outside the object"
+171,171,189,1104,Use the nth term rule for descending integer linear sequences to find another term in a the sequence
+172,172,190,978,Solve coordinate geometry questions involving ratio
+173,173,191,239,Order negative decimals with a different number of digits
+174,174,192,217,Round numbers to one decimal place
+175,175,193,513,Raise an integer to a positive non-unit fraction power
+176,176,194,2758,Calculate the mean as an average from a list of data
+177,177,196,1522,Rearrange formulae to change the subject where the subject appears once and two steps are needed
+178,178,197,2355,Recognise perpendicular lines
+179,179,198,2074,Convert from km² to m²
+180,180,199,328,Identify rational and irrational numbers
+181,181,201,3180,Recognise a linear graph from its shape
+182,182,202,428,Add fractions involving mixed number fractions with the same denominator
+183,183,203,1399,"Calculate the distance between two coordinates in 2D, where all the values are positive integers"
+184,184,204,20,Write 5 digit numbers and above as words
+185,185,205,192,Interpret the value of digits in multiplication calculations using long multiplication
+186,186,206,3329,Understand the relationship between different factors of a number
+187,187,207,1276,Simplify algebraic expressions to maintain equivalence by collecting like terms involving non-linear variables
+188,188,208,639,Use direct proportion to solve non-unitary missing amounts in problems (e.g. recipes)
+189,189,209,2228,Convert from minutes to seconds
+190,190,212,1035,Represent a linear inequality in the form x ≤ a or x ≥ b (and other sign arrangements) on a numberline
+191,191,213,3130,Find the reciprocal of a fraction
+192,192,214,1274,Simplify algebraic expressions to maintain equivalence by collecting like terms involving just two linear variables
+193,193,216,954,Identify parallel lines written in the form y = mx + c
+194,194,218,3403,Given a situation sketch an appropriate non linear real life graph
+195,195,219,2792,Identify the mode from a frequency table
+196,196,220,2687,"Enlarge a shape, with a centre of enlargement given, by a positive scale factor bigger than 1, where the centre of enlargement lies on the edge or outside of the object"
+197,197,222,1052,Describe the solution to a graphical inequality involving a single diagonal line
+198,198,224,2580,"Given the area of a square, calculate a missing dimension"
+199,199,225,699,"Given information about one part, work out the whole"
+200,200,227,3033,Use inequality notation to order a negative and a positive integer
+201,201,228,1378,"Given a midpoint and a coordinate work out the position of the other coordinate, where all the values are integers but at least one is negative"
+202,202,229,1134,Continue linear sequences expressed as patterns by drawing the next pattern
+203,203,231,3072,"Sketch, or identify a sketch, of a line given in the form y = mx + c, where m is negative"
+204,204,232,3134,Identify factors of algebraic expressions
+205,205,235,2948,Assign probabilities to single events using fractions
+206,206,236,2298,Calculate the volume of a cuboid when the dimensions are given in different units
+207,207,237,1407,Expand two brackets with linear terms in the form (x + a)(x + b)
+208,208,238,2258,Add column vectors each containing two elements
+209,209,239,3181,Recognise a quadratic graph from its shape
+210,210,240,2585,"Given the area of a trapezium, calculate a missing dimension"
+211,211,242,877,Multiply amounts of money up to £10
+212,212,244,3406,Substitute into simple formulae given in words
+213,213,245,591,Increase a number by a given percentage mentally where the percent is a multiple of 10
+214,214,247,71,Solve problems that combine addition and subtraction
+215,215,249,1446,Recognise whether you need to add or subtract linear equations in order to eliminate a variable
+216,216,250,221,Round numbers greater than 1 to two significant figures
+217,217,253,1744,Find missing angles using angles on a straight line
+218,218,255,423,Convert from improper fractions to mixed number fractions
+219,219,256,3382,Use area to write algebraic expressions
+220,220,257,2040,Convert from kilometers to miles
+221,221,258,3316,Recognise and use efficient methods for mental multiplication
+222,222,261,2240,Change minutes into decimals of hours (e.g. 90 minutes = 1.5 hours)
+223,223,262,331,Identify factors of a number
+224,224,265,2331,Calculate the volume of a cone where the dimensions are all given in the same units
+225,225,266,444,Multiply mixed number fractions in the form: Fraction × Integer
+226,226,267,559,Calculate questions involving the power law of indices with positive integer powers
+227,227,268,2707,Follow simple directions to translate a shape or object using words not vectors
+228,228,269,382,Convert decimals less than 1 with 3 or more decimal place to percentages
+229,229,270,1075,Solve positive quadratic inequalities by balancing e.g x² ≤ a
+230,230,271,2480,Identify a prism from a diagram
+231,231,272,1328,Identify vertical reflections in the form f(x) = for non-trigonometric functions
+232,232,273,1741,Recognise the angles on a straight line relationship
+233,233,276,2934,Identify the regions on a double Venn diagram given in set notation
+234,234,277,1507,Solve a linear equation using a function machine
+235,235,278,1034,Represent a linear inequality in the form a ≤ x ≤ b (and other sign arrangements) on a numberline
+236,236,281,1501,Carry out the first stage in an iteration solution
+237,237,282,2391,Describe the properties of a rhombus
+238,238,283,947,"Given a line segment, calculate the gradient where the gradient is a positive integer"
+239,239,286,452,Divide mixed number fractions in the form: Fraction ÷ Integer
+240,240,287,2176,Identify a unit of time
+241,241,288,3391,Substitute negative integer values into formulae involving powers or roots
+242,242,289,3270,Multiply 3 digit integers by 1 digit integers using long multiplication
+243,243,290,1288,Prove statements involving positive and negative numbers
+244,244,291,1454,Solve linear simultaneous equations requiring a scaling of both expressions
+245,245,292,440,Multiply proper fractions in the form: Fraction × Integer
+246,246,295,981,"Given a positive x value, find the corresponding y value for curves in the form y = x² + c"
+247,247,296,1493,Solve quadratic equations using the quadratic formula where the coefficient of x² is not 1 
+248,248,297,2352,Use common conventions for labelling the sides of shapes
+249,249,298,1281,"Multiply algebraic terms, involving non-linear versions of different letters (e.g. 4a2 x 5ab)"
+250,250,299,162,Interpret and carry out mental division using a bar model
+251,251,300,414,Order fractions whose denominators are multiples of the same number 
+252,252,301,1743,Find missing angles using angles around a point
+253,253,302,1614,Simplify an algebraic fraction by factorising both the numerator and denominator
+254,254,303,2282,Calculate the surface area of a cuboid where the dimensions are given in the same units
+255,255,304,855,Use the order of operations to carry out calculations involving brackets
+256,256,305,1466,"Solve one-step linear equations requiring multiplication or division, involving positive fractions"
+257,257,306,854,"Use the order of operations to carry out calculations involving addition, subtraction, multiplication, and/or division"
+258,258,307,1107,Use the nth term rule of an ascending integer linear sequence to test whether a term belongs in the sequence or not
+259,259,309,441,Multiply proper fractions in the form: Fraction × Fraction
+260,260,310,1662,Label angles using correct 3-letter notation (e.g. angle ADB)
+261,261,312,3133,Write algebraic expressions with correct algebraic convention involving powers
+262,262,314,204,Convert the reminders from written division problems into decimals
+263,263,315,1624,"Subtract algebraic fractions where the denominators are linear expressions, eg (x + 5) and (x - 3), and the numerators are single terms"
+264,264,316,224,Round numbers between 0 and 1 to two significant figures
+265,265,317,301,Add decimals with the same number of decimals places
+266,266,319,321,Divide two decimals with the same number of decimal places
+267,267,320,2600,"Calculate compound area involving just rectangles and squares, where the dimensions are given in the same units"
+268,268,322,311,Multiply a decimal by an integer
+269,269,324,2406,Identify a kite from a description of the properties
+270,270,325,3337,Identify the number of degrees in fractions of a turn
+271,271,326,3522,Find a negative reciprocal
+272,272,327,211,Round non-integers to the nearest 10
+273,273,328,425,Add proper fractions with different denominators where one is a multiple of the other
+274,274,329,325,Answer decimal problems that require the use of BIDMAS
+275,275,330,437,Subtract fractions involving mixed number fractions with different denominators
+276,276,331,1595,"Calculate coordinates of points on the graph of y = ax, where x is a positive integer "
+277,277,332,1470,"Solve two-step linear equations, with the variable on one side, with all positive integers"
+278,278,334,420,Represent positive unit fractions on a number line
+279,279,335,100,Recognise and use efficient strategies for mental subtraction
+280,280,336,2863,Interpret a pictogram involving fractions of symbols
+281,281,338,409,Identify equivalent fractions when presented as numbers
+282,282,339,1264,Recognise and name a term
+283,283,340,2650,"Reflect an object or a point in a vertical line with the line of reflection given as an equation, where the line of reflection lies on the edge or outside the object"
+284,284,341,2647,"Reflect an object or a point in a vertical line with the line of reflection drawn, where the line of reflection lies on the edge or outside the object"
+285,285,342,1654,Identify obtuse angles
+286,286,343,2376,Identify a rectangle when presented non-conventionally
+287,287,344,2105,Convert between m³ and cm³
+288,288,346,706,Convert ratios to fractions
+289,289,347,3395,Substitute positive non-integer values into formulae involving powers or roots
+290,290,349,266,Carry out multiplication problems involving two negative integers
+291,291,350,2947,Know that the probabilities of exhaustive events must sum to 1
+292,292,351,473,Calculate the square of a number
+293,293,358,3338,Identify a transversal
+294,294,363,1268,Create a situation to match an algebraic expression
+295,295,364,3330,"Given an equation, form  or identify related equations"
+296,296,368,481,Calculate which two integer values the decimal equivalent of a square root must lie between
+297,297,370,900,"Given a positive x value, find a y value in a table of values for lines in the form y = mx + c "
+298,298,371,2674,"Rotate an object or point 900 clockwise or anticlockwise about a point, where the point lies on the edge or outside of the object"
+299,299,373,1755,Identify corresponding angles
+300,300,378,362,Convert fractions less than 1 to terminating decimals of 1 decimal place
+301,301,380,381,Convert decimals less than 1 with 2 decimal place to percentages
+302,302,388,797,Find the lower bound of a number rounded to 2 decimal places
+303,303,389,3510,"Match linear sequences to other representations, such as tables and graphs"
+304,304,390,577,Calculate percentage of an amount mentally where the percent is a decimal
+305,305,393,2636,Solve length problems involving similar shapes where the missing length is the longer one
+306,306,394,2297,Calculate the volume of a cuboid when the dimensions are given in the same units
+307,307,396,1447,Add two equations together to remove a variable 
+308,308,398,3326,Count backwards through zero starting from a positive integer
+309,309,399,1526,Substitute positive integer values into expressions involving powers or roots
+310,310,402,411,Simplify fractions that simplify to a non-unit fraction
+311,311,403,964,Plot two straight lines to find the solution to a pair of simultaneous equations
+312,312,407,2736,Calculate the distance travelled using a speed-time graph
+313,313,408,302,Add decimals where the numbers involved have a different number of decimal places
+314,314,410,3212,Complete missing number mental subtraction problems with numbers over 1000
+315,315,411,88,Recognise and use efficient strategies for mental addition
+316,316,412,2944,"Know that probabilities must lie between 0, impossible, and 1, certain"
+317,317,414,875,Calculate the change from purchases between £10 and £100
+318,318,416,703,Express pictorial representations of objects as a ratio
+319,319,417,547,Multiplication law of indices with positive integer powers and a different base number
+320,320,419,3488,Identify cross sections of 3D shapes
+321,321,421,2232,Convert from days to seconds
+322,322,422,2714,Describe a translation using vector notation where at least one value is negative
+323,323,427,3489,Estimate the gradient at a point on a non-linear section of a real life graph
+324,324,428,478,Recognise other roots of numbers
+325,325,432,902,"Given a positive y value, find an x value in a table of values for lines in the form y = mx + c"
+326,326,433,2754,Identify data which is qualitative or quantitative
+327,327,434,1439,Complete the square for expressions that end up in the form (x + a)² + b
+328,328,435,284,Answer negative number problems that require the use of BIDMAS
+329,329,436,247,Carry out addition problems involving two negative integers 
+330,330,437,1097,Write the next term of an ascending integer linear sequence
+331,331,438,2729,Read values off a speed-time graph
+332,332,440,2161,Read a negative integer temperature from a thermometer
+333,333,442,3282,Multiply 3 digit integers by 2 digit integers using the grid method
+334,334,444,3211,Complete missing number mental addition problems with numbers over 1000
+335,335,448,1556,"Given a positive x value, find the corresponding y value for reciprocal graphs"
+336,336,451,1272,"Given the description of an algebraic term with powers, write the term using algebra "
+337,337,454,3175,For a given output find the input of a function machine
+338,338,456,3206,Recognise an arithmetic sequence
+339,339,459,2741,Read values off a displacement-time graph
+340,340,461,2971,Calculate the probability of two dependent events occurring without drawing a tree diagram
+341,341,464,408,Identify equivalent fractions when presented as shapes or objects
+342,342,465,1138,Recognise when an ascending sequence is quadratic
+343,343,467,701,"Given information about the relationship between two parts (e.g. one part is worth 5 more than another), work out the whole"
+344,344,468,3411,Calculate a string of multiplications mentally
+345,345,469,436,Subtract fractions involving mixed number fractions with the same denominator
+346,346,470,178,Subtract integers up to 3 digits using a written method where carrying is needed
+347,347,472,955,Identify parallel lines written in the form y = c - mx
+348,348,473,28,Recognise the place value of each digit in integers
+349,349,475,1476,"Solve three or more step linear equations, with the variable on one side, with all positive integers"
+350,350,479,3412,Convert between l and m³ 
+351,351,480,46,Find 100 more than a given number
+352,352,481,238,Order negative decimals with the same number of digits
+353,353,483,2564,Calculate the area of a rectangle where the dimensions are given in the same units
+354,354,484,2548,"Identify and count the faces, vertices and edges of a 3D shape"
+355,355,486,313,Multiply two decimals together with a different number of decimal places
+356,356,490,422,Convert from mixed number fractions to improper fractions
+357,357,492,1901,Construct a triangle using Side-Side-Side
+358,358,495,2576,Calculate the area of an isosceles triangle where the dimensions are given in the same units
+359,359,497,3345,Identify or mark lines of symmetry on a shape
+360,360,498,3144,Change decimals of hours into minutes
+361,361,499,2861,Construct a pictogram involving fractions of symbols
+362,362,500,1094,Describe a descending linear sequence in words
+363,363,502,1427,Recognise when it is possible to factorise an expression into a double bracket
+364,364,503,1483,"Solve linear equations with the variable appearing on both sides, involving negative integers"
+365,365,504,996,"Given the sketch of a curve in the form (x + a)(x + b), work out its factorised form"
+366,366,505,707,Convert fractions to ratios
+367,367,511,1617,Add algebraic fractions where the denominators are single terms and are not multiples of each other
+368,368,516,929,Work out the equation of a line when given a positive gradient and a point on the line
+369,369,517,867,Add amounts of money together to make a total between £1 and £10
+370,370,519,1426,Factorise a single bracket containing a non-linear expression by taking out a common factor involving numeric and algebraic components (e.g. 5a)
+371,371,521,329,Identify triangular numbers
+372,372,522,3066,Convert from minutes to hours
+373,373,523,1506,Express a linear equation as a function machine
+374,374,524,3407,Identify pairs of numbers that satisfy an equation with two unknowns 
+375,375,525,429,Add fractions involving mixed number fractions with different denominators
+376,376,530,2759,Calculate the median as an average from an odd numbered list of data
+377,377,531,342,Identify multiples of a number
+378,378,532,3085,Can calculate missing coordinates in a geometric shape
+379,379,533,1627,Multiply algebraic fractions where the numerators and denominators are all single terms
+380,380,534,1448,Subtract two equations together to remove a variable 
+381,381,536,3340,Compare the lengths of diagonal line segments without calculating the exact length
+382,382,537,3215,Round numbers to an appropriate degree to estimate the answer to a calculation
+383,383,540,849,Round the elements of a calculation to one significant figure to perform an estimation
+384,384,541,419,Use inequality notation to order fractions whose denominators are not multiples of the same number 
+385,385,542,1261,Recognise and name an expression
+386,386,545,2211,Tell the time from a 24 hour digital clock with times after half past the hour
+387,387,546,2789,Interpret numbers in a frequency table
+388,388,547,1430,Factorise a quadratic expression in the form x² + bx - c
+389,389,551,1738,Use a protractor to measure angles between 180° and 270°
+390,390,554,926,Work out the equation of a line with a negative gradient from an accurate drawing
+391,391,556,1464,"Solve one-step linear equations requiring multiplication or division, with all positive integers"
+392,392,557,2849,Interpret a bar chart
+393,393,561,1320,Identify vertical translations in the form f(x) = for non-trigonometric functions
+394,394,562,886,"Given an exchange rate x = ny, convert to work out the number of x’s for a given y"
+395,395,566,1523,Rearrange formulae to change the subject where the subject appears once and three or more steps are needed
+396,396,567,1277,Multiply an integer and an algebraic term 
+397,397,569,1758,Find missing angles on parallel lines using corresponding angles
+398,398,570,3030,Use the prime factor decomposition of a number to calculate the number
+399,399,571,210,"Round integers to the nearest other integer value (e.g. 20, 50 etc)"
+400,400,573,963,Identify perpendicular lines written in any other form
+401,401,575,433,Subtract proper fractions with different denominators where one is a multiple of the other
+402,402,579,968,Interpret the graphical solution to a pair of linear simultaneous equations from a diagram
+403,403,581,471,Recognise cube numbers
+404,404,583,2031,Convert between m and mm
+405,405,584,2609,Calculate missing lengths of shapes by counting squares
+406,406,585,1453,Solve linear simultaneous equations requiring a scaling of one expression
+407,407,586,722,Write a surd in the form √a in a simplified form
+408,408,589,1795,Use facts about interior angles in polygons with algebra to write expressions
+409,409,590,3339,Identify mathematical instruments and their functions
+410,410,593,2648,"Reflect an object or a point in a diagonal line with the line of reflection drawn, where the line of reflection lies on the edge or outside the object"
+411,411,594,172,Add integers up to 4 digits using a written method where carrying is needed
+412,412,595,575,Calculate percentage of an amount mentally where the percent is a multiple of 10
+413,413,600,1442,"Solve basic introduction simultaneous equation problems, often involving shapes and symbols"
+414,414,601,3040,Identify a diameter
+415,415,602,401,Calculate non-unit fractions of an amount
+416,416,604,312,Multiply two decimals together with the same number of decimal places
+417,417,606,476,Recognise square roots
+418,418,608,1214,Recognise a Fibonacci sequence
+419,419,609,2239,Convert between any other time periods
+420,420,618,373,Convert fractions to percentages containing 1 decimal place
+421,421,619,336,Recognise when to find a factor to solve a problem
+422,422,621,2253,Solve problems involving adding a period of time on to a given start time
+423,423,623,3174,For a given input find the output of a function machine
+424,424,625,375,Convert single digit integer percentages to fractions
+425,425,627,1531,Substitute negative non-integer values into expressions involving no powers or roots
+426,426,631,483,Raise a positive integer to a positive integer power
+427,427,635,1684,Estimate the size of obtuse angles using bearings
+428,428,639,84,Complete missing number mental addition problems up to 1000 
+429,429,640,1806,Find missing angles in a scalene triangle
+430,430,642,1438,Factorise a quadratic expression in the form ax² - c
+431,431,643,277,Carry out division problems involving negative non-integers
+432,432,645,1804,Find missing angles in an isosceles triangle
+433,433,647,3125,Multiply surds by an integer
+434,434,648,1411,Expand two brackets with linear terms in the form (ax + b)²
+435,435,650,2432,Describe the properties of an isosceles triangle
+436,436,655,271,Carry out missing number multiplication problems involving negative integers
+437,437,657,29,Order integers with the same number of digits
+438,438,658,3074,Work out the y-intercept of a line from an accurate drawing
+439,439,663,3343,Recognise and use efficient methods for mental division
+440,440,664,218,Round numbers to two decimal places
+441,441,665,3104,Understand the meaning of congruency
+442,442,666,212,Round non-integers to the nearest 100
+443,443,667,383,Convert decimals greater than 1 to percentages
+444,444,668,2761,Calculate the mode as an average from a list of data when there is a single mode
+445,445,670,873,Calculate the change from purchases between £1 and £5
+446,446,671,2438,Identify a right-angled triangle from a description of the properties
+447,447,675,2010,Read a decimal on a scale where the required measurement is marked by a dash between two numbers
+448,448,677,3381,Use perimeter to write algebraic expressions
+449,449,678,3408,Complete multi-step mental calculations
+450,450,684,179,Subtract integers up to 4 digits using a written method where carrying is not needed
+451,451,685,334,Identify common factors of two numbers
+452,452,690,1091,Recognise when an ascending sequence is linear
+453,453,692,3437,Solve missing number mental multiplication problems with decimals
+454,454,698,2969,Calculate the probability of two independent events occurring without drawing a tree diagram
+455,455,702,216,Round decimals to the nearest whole number
+456,456,703,1776,Find missing angles in a parallelogram
+457,457,705,207,Round integers to the nearest 100
+458,458,709,921,Recognise the equations of vertical lines from a diagram
+459,459,711,3226,Write a missing term of a descending integer linear sequence
+460,460,713,2867,"Given the sector angle on a pie chart, calculate the frequency of a group"
+461,461,716,1677,"Know the bearings of North-West, North-East, South-West and South-East"
+462,462,722,1477,"Solve three or more step linear equations, with the variable on one side, involving negative integers"
+463,463,728,3120,Insert brackets to make a calculation correct
+464,464,730,571,Shade percentages of a shape where the percent is a multiple of 10
+465,465,732,1065,"Represent the solution to a graphical inequality involving a combination of vertical, horizontal and diagonal lines"
+466,466,733,196,Divide integers of 3 or more digits using short division
+467,467,741,1262,Recognise and name an equation
+468,468,742,1100,Find the nth term rule for a descending integer linear sequence
+469,469,747,989,Identify the line of symmetry of curves in the form (x + a)(x + b)
+470,470,753,948,"Given a line segment, calculate the gradient where the gradient is a negative integer"
+471,471,754,1007,"Given a sketch of a quadratic graph in the form (x + p)² + q, work out its completed the square form"
+472,472,761,3422,Identify the outcomes of more than one event
+473,473,764,343,Identify common multiples of two numbers
+474,474,767,2635,Identify whether two shapes are similar or not
+475,475,768,48,Find another power of 10 more than a given number
+476,476,769,2145,Convert between kg and g
+477,477,771,665,Recognise graphical representations of inverse proportion in the form y = k/x
+478,478,773,2112,Convert between ml and l
+479,479,777,1898,Construct an angle of 60° using a ruler and a compass
+480,480,780,2390,Identify a rhombus from a description of the properties
+481,481,785,1786,Work out the sum of the interior angles in polygons
+482,482,788,1006,State the coordinates of the turning point for quadratic graphs in the form (x + p)² + q
+483,483,790,2653,"Describe a reflection in a vertical line by drawing the line of reflection, where the line of reflection lies on the edge or outside the object"
+484,484,791,197,Divide integers up to 2 digits using long division
+485,485,792,910,"Given a positive y value, find an x value in a table of values for lines in the form ax + by = c"
+486,486,793,1400,"Calculate the distance between two coordinates in 2D, where all the values are integers but at least one is negative"
+487,487,797,560,Calculate questions involving the power law of indices with negative integer powers
+488,488,800,1746,Use angles around a point to form and solve algebraic equations
+489,489,803,2649,"Reflect an object or a point in a horizontal line with the line of reflection given as an equation, where the line of reflection lies on the edge or outside the object"
+490,490,808,2358,Identify and distinguish between polygons and non-polygons
+491,491,809,1521,Rearrange formulae to change the subject where the subject appears once and one step is needed
+492,492,811,1103,Use the nth term rule for ascending integer linear sequences to find another term in the sequence
+493,493,812,2749,"Given the speed, calculate missing values from a displacement-time graph"
+494,494,819,255,Carry out subtraction problems involving one negative integer
+495,495,821,1629,Multiply algebraic fractions involving non-linear expressions
+496,496,822,3184,Recognise an exponential graph from its shape
+497,497,823,3044,Identify the regions on a double Venn diagram given in words
+498,498,830,908,"Given a positive x value, find a y value in a table of values for lines in the form ax + by = c"
+499,499,832,2296,Calculate the volume of a cube
+500,500,839,31,Use inequality notation to order integers with the same number of digits
+501,501,841,3423,Complete a sample space diagram
+502,502,843,2633,Identify congruence in shapes other than triangles
+503,503,844,2434,Use the properties of an isosceles triangle to find missing lengths
+504,504,848,349,Use prime factor decomposition to find the Lowest Common Multiple of two numbers
+505,505,849,55,Can read Roman numerals between 100 and 1000
+506,506,855,1628,Multiply algebraic fractions where the numerators and denominators involve linear expressions
+507,507,865,1002,"Given the sketch of a negative quadratic, work out its factorised form"
+508,508,867,1408,Expand two brackets with linear terms in the form (x + a)²
+509,509,870,4,Count a number of objects
+510,510,876,348,Recognise when to find the Lowest Common Multiple to solve a problem
+511,511,877,2012,Identify a unit of length
+512,512,880,2254,Solve problems involving subtracting a period of time from a given end time
+513,513,881,1099,Find the nth term rule for an ascending integer linear sequence
+514,514,883,1481,"Solve three or more step linear equations, with the variable on one side, involving negative decimals"
+515,515,887,531,Change an integer base number to another integer base number with a positive integer power
+516,516,890,1405,Multiply a single term over a bracket where the term on the outside contains a letter and the inside contains a linear expression
+517,517,892,93,Complete mental subtraction problems up to 1000
+518,518,893,2142,Complete multi-step conversions of mass that use division
+519,519,894,2587,"Given the area of an isosceles triangle, calculate a missing dimension"
+520,520,898,2174,Perform calculations with temperature when given in the same units
+521,521,900,3143,Convert between cm³ and l
+522,522,901,3202,Recognise and name a variable
+523,523,908,3178,Given a sketch of a linear graph solve f(x) = 0
+524,524,918,318,Divide a decimal by an integer
+525,525,919,985,"Given a positive x value, find the corresponding y value for curves in the form y = ax² + bx + c"
+526,526,921,219,Round numbers to three or more decimal places
+527,527,922,2099,Convert between cm³ and mm³
+528,528,924,2462,Draw the net of a prism
+529,529,928,2708,Describe simple directions to translate a shape or object using words not vectors
+530,530,930,3349,Identify and represent sets using set notation
+531,531,931,1263,Recognise and name a formula
+532,532,933,919,Determine if a given point lies on a line
+533,533,935,1450,Substitute a solution back into the remaining equation and find the second solution
+534,534,936,1431,Factorise a quadratic expression in the form x² - bx - c
+535,535,938,246,Carry out addition problems involving one negative integer
+536,536,940,3318,Understand the relationship between parts of a ratio
+537,537,946,2420,Sort and class quadrilaterals into hierarchical families
+538,538,948,50,Find 100 less than a given number
+539,539,950,721,Recognise when a square root is a surd and when it is not
+540,540,956,2141,Convert between g and mg
+541,541,959,2744,Interpret horizontal sections of a displacement-time graph
+542,542,963,3272,Multiply 2 digit integers by 2 digit integers using long multiplication
+543,543,970,1452,Solve linear simultaneous equations requiring no scaling of expressions
+544,544,971,3265,Identify command words that mean addition
+545,545,973,387,Convert percentages containing 1 decimal place to decimals
+546,546,976,3028,Construct frequency tables
+547,547,978,474,Calculate the cube of a number
+548,548,981,386,Convert integer percentages with 3 or more digits to decimals 
+549,549,985,3228,Carry out missing number subtraction problems where a written method is needed
+550,550,989,2593,Calculate the perimeter of a rectilinear shape by adding lengths expressed in the same units
+551,551,992,384,Convert integer percentages with 1 digit to decimals 
+552,552,999,1562,Interpret linear sections of real life graphs
+553,553,1002,363,Convert fractions less than 1 to terminating decimals of 2 decimal places
+554,554,1004,573,Shade percentages of a shape where the percent is an integer
+555,555,1009,1479,"Solve three or more step linear equations, with the variable on one side, involving positive decimals"
+556,556,1010,161,Understand the non-commutativity of division
+557,557,1012,1280,"Multiply algebraic terms, involving non-linear versions of the same letter (e.g. 4a2 x 2a)"
+558,558,1016,1529,Substitute positive non-integer values into expressions involving no powers or roots
+559,559,1020,2637,Solve length problems involving similar shapes where the missing length is the shorter one
+560,560,1021,3163,Solve quadratic equations using factorisation in the form x(x + b) 
+561,561,1024,860,Identify the total number of combinations in a given scenario by using the product rule for counting where duplicates are considered different
+562,562,1025,967,Read the graphical solution to a pair of linear simultaneous equations from a diagram
+563,563,1028,980,Solve coordinate geometry questions involving quadrilaterals
+564,564,1031,198,Divide integers of 3 or more digits using long division
+565,565,1034,42,Place or identify the location of an integer between 100 and 1000 on a number line
+566,566,1036,2299,Calculate the volume of a triangular-based prism when the dimensions are given in the same units
+567,567,1037,576,Calculate percentage of an amount mentally where the percent is an integer
+568,568,1038,2236,Convert from weeks to hours
+569,569,1041,2229,Convert from seconds to hours
+570,570,1042,1489,Solve quadratic equations using factorisation in the form (px + a)(qx + b) 
+571,571,1043,3320,Use inequality notation to order fractions with the same numerators
+572,572,1045,1960,Identify questions involving a 2D right-angled triangle that require the use of the Cosine (cos) ratio
+573,573,1050,1421,Factorise a single bracket containing a linear expression by taking out a single numeric common factor (e.g. 6)
+574,574,1054,2950,Assign probabilities to single events using percentages
+575,575,1055,427,Add proper fractions with different denominators which do not share a common factor
+576,576,1056,1105,"Given a term in an ascending integer linear sequence, use the nth term rule to find its position in that sequence"
+577,577,1058,2651,"Reflect an object or a point in a diagonal line with the line of reflection given as an equation, where the line of reflection lies on the edge or outside the object"
+578,578,1061,1148,Find the nth term rule for ascending quadratic sequences in the form x² + bx + c
+579,579,1063,3440,"Given an x value, find the corresponding y value from a non-linear graph"
+580,580,1064,2087,Estimate the volume or capacity of an object
+581,581,1066,1266,Recognise and name an identity
+582,582,1067,3114,Identify the outcomes of a single event
+583,583,1072,1737,Use a protractor to measure angles between 90° and 180°
+584,584,1073,371,Convert fractions to two digit integer percentages
+585,585,1075,1354,"Mark a point in the second quadrant of a 2D grid having been given its coordinates, where both values are integers"
+586,586,1078,2150,Convert between kg and tonne
+587,587,1082,1551,"Given a negative x value, find the corresponding y value for the curve y = x3 + c"
+588,588,1085,322,Divide two decimals with a different number of decimal places
+589,589,1095,460,Write numbers greater than 1 in standard form
+590,590,1096,1377,"Calculate the midpoint between two coordinates in 2D, where all the values are integers but at least one is negative"
+591,591,1106,1962,Recall the formulae for the trigonometric ratios
+592,592,1111,638,Use direct proportion to solve unitary missing amounts in problems (e.g. recipes)
+593,593,1113,275,Carry out division problems involving two negative integers
+594,594,1114,1385,Calculate a positive fractional gradient between two coordinates where all values are positive
+595,595,1117,580,Find the whole amount given a percentage of the amount mentally
+596,596,1126,1761,Find missing angles on parallel lines using more than one angle fact
+597,597,1128,233,Identify where negative non-integers lie on a number line
+598,598,1130,1810,Use facts about interior angles in triangles with algebra to solve equations
+599,599,1133,2864,"Solve comparison, sum and difference problems using information presented in pictograms"
+600,600,1135,898,"Given a positive y value, find an x value in a table of values for lines in the form y = c - x "
+601,601,1138,1613,Simplify an algebraic fraction by factorising the denominator
+602,602,1139,2560,Find the area of rectilinear shapes by counting squares
+603,603,1141,378,Convert percentages containing 1 decimal place to fractions
+604,604,1143,3112,Given the number of sides of a polygon identify the name
+605,605,1145,737,Add surds in the form va + vb
+606,606,1147,1999,"Know the exact value of tan(30), tan(45) and tan(60)"
+607,607,1151,2026,Convert between cm and mm
+608,608,1153,1805,Find missing angles in a right-angled triangle
+609,609,1159,1142,"Given a description of an ascending sequence using quadratics in words, write some terms of that sequence"
+610,610,1167,2033,Convert between m and km
+611,611,1170,2622,Recall the correct formula to calculate the length of a non-hypotenuse of a right-angled triangle in a 2D Pythagoras questions
+612,612,1176,3341,Calculate the length of horizontal and vertical line segments
+613,613,1181,2451,Identify the net of a prism
+614,614,1182,287,Perform calculator calculations with powers
+615,615,1184,111,Recognise visual representations of division times table facts
+616,616,1187,297,Order decimals with a different number of digits
+617,617,1190,1459,"Solve one-step linear equations requiring addition or subtraction, involving negative integers"
+618,618,1200,2972,Calculate the probability of three or more dependent events occurring without drawing a tree diagram
+619,619,1201,1747,Use angles on a straight line to form and solve algebraic equations
+620,620,1205,2974,Understand the term mutually exclusive
+621,621,1215,67,Divide integers by 1000
+622,622,1224,1757,Identify co-interior angles
+623,623,1231,2870,Compare two pie charts
+624,624,1234,2676,"Rotate an object or point 180° about a point, where the point lies on the edge or outside of the object "
+625,625,1237,1817,Recognise that the diameter is twice the radius
+626,626,1247,1815,Identify a radius
+627,627,1253,397,Identify unit fractions when part of a shape
+628,628,1257,102,Identify that a problem needs to be solved using multiplication
+629,629,1258,1123,Find the nth term rule for an ascending fractional linear sequence
+630,630,1264,73,Solve problems that combine addition or subtraction with multiplication
+631,631,1266,345,Identify the Lowest Common Multiple of two numbers
+632,632,1270,3394,Substitute positive non-integer values into formulae involving no powers or roots where you need to find a value that is not the subject
+633,633,1274,2656,"Describe a reflection in a vertical line by giving the line of reflection as an equation, where the line of reflection lies on the edge or outside the object"
+634,634,1278,296,Order decimals with the same number of digits
+635,635,1281,3322,Recognise and use the law of distributivity
+636,636,1286,2347,"Given the volume of a sphere, work out missing information"
+637,637,1290,1530,Substitute positive non-integer values into expressions involving powers or roots
+638,638,1301,222,Round numbers greater than 1 to three or more significant figures
+639,639,1306,1382,"Given a midpoint and a coordinate work out the position of the other coordinate, where at least one value is negative and at least one is a non-integer"
+640,640,1314,344,Identify common multiples of three or more numbers
+641,641,1316,567,"Multiplication, division and power law of indices with positive integer powers"
+642,642,1319,1267,Form expressions from situations described in words
+643,643,1325,18,Write 3 digit numbers as words 
+644,644,1330,2762,Calculate the mode as an average from a list of data when there are two or more modes
+645,645,1334,2357,"Given the name of a polygon, draw or identify a corresponding diagram"
+646,646,1335,402,Express one quantity as a fraction of another
+647,647,1336,1445,Manipulate both equations so that they are in a form to be added or subtracted
+648,648,1338,415,Order fractions whose denominators are not multiples of the same number 
+649,649,1346,3192,Identify when rounding a calculation will give an over or under approximation
+650,650,1350,3281,Multiply 2 digit integers by 2 digit integers using the grid method
+651,651,1353,551,Division law of indices with positive integer powers and the same base number
+652,652,1354,1509,Solve a non-linear equation using a function machine
+653,653,1356,3357,Round non-integers to other non-integer values (e.g. 0.02)
+654,654,1359,1821,Identify the circumference
+655,655,1361,99,Understand the non-commutativity of subtraction
+656,656,1363,2642,Find the volume scale factor of similar shapes given the length scale factor
+657,657,1367,27,Recognise integers expressed visually
+658,658,1368,3441,"Given a y value, find the corresponding x value from a non -linear graph"
+659,659,1376,572,Identify percentages of a shape where the percent is a multiple of 10
+660,660,1381,2723,Substitute numbers into a SUVAT equation to work out distance
+661,661,1386,1615,Add algebraic fractions with the same denominator
+662,662,1387,3129,Find the reciprocal of an integer
+663,663,1390,457,Answer fraction problems that require the use of BIDMAS
+664,664,1393,465,Perform subtraction calculations using standard form
+665,665,1398,3183,Recognise a reciprocal graph from its shape
+666,666,1399,1740,Recognise the angles around a point relationship
+667,667,1402,1269,Describe the meaning algebraic terms with no powers
+668,668,1410,2765,Solve missing number problems involving the median
+669,669,1412,364,Convert fractions less than 1 to terminating decimals of 3 or more decimal places
+670,670,1417,2728,Given a situation sketch an appropriate speed-time graph
+671,671,1422,1596,"Calculate coordinates of points on the graph of y = ax, where x is a positive non-integer"
+672,672,1423,461,Write numbers between 0 and 1 in standard form
+673,673,1427,1458,"Solve one-step linear equations requiring addition or subtraction, with all positive integers"
+674,674,1429,3222,Use a bar model to express a ratio problem
+675,675,1438,1093,Describe an ascending linear sequence in words
+676,676,1439,81,Complete mental addition problems up to 1000
+677,677,1451,1133,Recognise that a sequence is linear sequences when expressed as a pattern
+678,678,1458,1610,Simplify an algebraic fraction by dividing by a single letter
+679,679,1460,2114,Convert between cl and l
+680,680,1462,480,Calculate the cube root of a number
+681,681,1464,1569,Interpret the gradient on a linear section on a real life graph
+682,682,1466,1892,Use a protractor to draw angles between 0° and 90° 
+683,683,1476,1217,Recognise a Fibonacci sequence expressed as a pattern
+684,684,1479,2144,Convert between g and kg
+685,685,1480,315,Divide decimals by 100
+686,686,1488,469,Understand the notation for powers
+687,687,1491,270,Raise negative numbers to powers
+688,688,1498,1671,"Describe how many degrees you would turn, and in what direction, to move between North, South, East and West on a compass"
+689,689,1502,2907,Interpret discrete data using a line graph
+690,690,1505,1903,Construct a triangle using Angle-Side-Angle
+691,691,1512,857,Use the order of operations to carry out calculations involving roots
+692,692,1515,2740,Given a situation sketch an appropriate displacement-time graph
+693,693,1516,2035,Complete multi-step conversions of length that use multiplication
+694,694,1521,2612,"Calculate missing lengths of shapes by geometrical inference, where the lengths involve algebraic expressions"
+695,695,1523,1443,Recognise if two linear expressions are in an appropriate form to be added or subtracted
+696,696,1530,1279,"Multiply algebraic terms, where both are linear versions of different letters (e.g. 4a x 2b)"
+697,697,1535,1655,Identify reflex angles
+698,698,1545,98,"Carry out, interpret and represent subtraction using the part-whole model"
+699,699,1547,1270,Describe the meaning algebraic terms with powers
+700,700,1552,3436,Order numbers in standard form that are between 0 and 1 
+701,701,1554,3416,Convert between l and  cm³
+702,702,1573,1902,Construct a triangle using Side-Angle-Side
+703,703,1586,1433,Factorise a quadratic expression in the form ax² + bx + c
+704,704,1610,59,Can write Roman numerals between 100 and 1000
+705,705,1618,3409,Identify non-prisms from a diagram
+706,706,1626,2301,Calculate the volume of a cylinder when the dimensions are given in the same units
+707,707,1631,3110,Compare real life graphs
+708,708,1637,3138,Solve linear inequalities involving two inequality signs
+709,709,1639,181,Subtract integers with more than 4 digits using a written method where carrying is not needed
+710,710,1641,2770,Understand the limitations of the mean
+711,711,1642,32,Use inequality notation to order integers with a different number of digits
+712,712,1643,3086,Understand key loci terms like equidistant and perpendicular
+713,713,1646,1750,Use angles around a point with algebra to prove results
+714,714,1659,453,Divide mixed number fraction in the form: Integer ÷ Fraction
+715,715,1664,739,Add surds in the form mva + nvb
+716,716,1676,2113,Convert between l and ml
+717,717,1678,2737,"Given the distance travelled, complete missing values on a speed-time graph"
+718,718,1683,899,"Given a negative y value, find an x value in a table of values for lines in the form y = c - x "
+719,719,1686,303,Subtract decimals from integers
+720,720,1693,374,Convert fractions to percentages containing 2 or more decimal places
+721,721,1701,1818,Identify a chord
+722,722,1705,2695,"Describe an enlargement, with no centre of enlargement given, by a positive scale factor bigger than 1"
+723,723,1706,1577,Calculate points that lie on the equation of a circle in the form x² + y² = r²
+724,724,1712,2680,"Describe a 90° or 270° rotation giving the angle and direction of rotation, and the coordinates of the centre of rotation, where the centre of rotation lies on the edge or outside of the object "
+725,725,1715,3064,Know the functionality of other non-numeric buttons on a calculator
+726,726,1716,1409,Expand two brackets with linear terms in the form (ax + b)(x + c)
+727,727,1729,78,Identify that a problem needs to be solved using addition
+728,728,1732,203,Interpret remainders from written division problems
+729,729,1733,2931,Interpret what the numbers in each region of a double Venn diagram mean
+730,730,1735,1044,Solve linear inequalities in one variable that require three or more steps where the variable appears on one side of the equation 
+731,731,1741,1206,Recognise that a sequence is quadratic when expressed as a pattern
+732,732,1742,1275,Simplify algebraic expressions to maintain equivalence by collecting like terms involving three or more linear variables
+733,733,1744,1163,Generate an ascending quadratic sequence from the nth term rule in the form ax² + bx + c
+734,734,1745,2427,Use the properties of an equilateral triangle to find missing lengths
+735,735,1747,1672,"Describe how many degrees you would turn, and in what direction, to move between North-West, North-East, South-West and South-East"
+736,736,1748,2657,"Describe a reflection in a diagonal line by giving the line of reflection as an equation, where the line of reflection lies on the edge or outside the object"
+737,737,1756,385,Convert integer percentages with 2 digits to decimals 
+738,738,1758,1508,Express a non-linear equation as a function machine
+739,739,1765,2711,Translate a shape given vector notation where all values are positive
+740,740,1768,3526,Mental multiplication and the laws of arithmetic
+741,741,1771,418,Use inequality notation to order fractions whose denominators are multiples of the same number 
+742,742,1780,1375,"Calculate the midpoint between two coordinates in 2D, where all the values are positive integers"
+743,743,1785,209,Round integers to the nearest other power of 10
+744,744,1789,3321,Recognise and use associativity of multiplication
+745,745,1803,1660,Estimate the size of obtuse angles
+746,746,1806,1271,"Given the description of an algebraic term with no powers, write the term using algebra "
+747,747,1813,2561,"Find the area of non-rectilinear shapes by counting squares, where all squares are either whole or exactly half-squares"
+748,748,1815,489,Raise a positive integer to the power of 0
+749,749,1826,1597,"Calculate coordinates of points on the graph of y = ax, where x is a negative integer "
+750,750,1827,1110,Write the next term of a descending decimal linear sequence
+751,751,1838,1568,Calculate the gradient on a linear section on a real life graph
+752,752,1844,988,Sketch curves in the form (x + a)(x + b) indicating where they cross the axes
+753,753,1849,1549,"Given a positive x value, find the corresponding y value for the curve y = x3 + c"
+754,754,1850,1874,Calculate distance where speed and time are in the appropriate units
+755,755,1858,2904,Identify when it is appropriate to use a line graph
+756,756,1867,2634,Distinguish between congruency and similarity
