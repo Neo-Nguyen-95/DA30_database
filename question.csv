@@ -1,4 +1,4 @@
-question_id,construct_id,subject_id,correct_answer,question_text,answer_a_text,answer_b_text,answer_c_text,answer_d_text,misconception_a_id,misconception_b_id,misconception_c_id,misconception_d_id
+question_id,construct_id,topic_id,correct_answer,question_text,answer_a_text,answer_b_text,answer_c_text,answer_d_text,misconception_a_id,misconception_b_id,misconception_c_id,misconception_d_id
 0,856,33,A,"\[
 3 \times 2+4-5
 \]

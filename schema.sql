@@ -5,7 +5,7 @@ CREATE DATABASE IF NOT EXISTS eedi_question_bank;
 USE eedi_question_bank;
 
 -- -----------------------------------------
--- Table: misconception
+-- Table: misconception & its staging table
 -- -----------------------------------------
 CREATE TABLE IF NOT EXISTS misconception (
     misconception_id INT NOT NULL,
@@ -13,8 +13,14 @@ CREATE TABLE IF NOT EXISTS misconception (
     PRIMARY KEY(misconception_id)
 );
 
+CREATE TABLE IF NOT EXISTS stg_misconception (
+    misconception_id INT NOT NULL,
+    misconception_name VARCHAR(511),
+    PRIMARY KEY(misconception_id)
+);
+
 -- -----------------------------------------
--- Table: construct
+-- Table: construct & its staging table
 -- -----------------------------------------
 CREATE TABLE IF NOT EXISTS construct (
     construct_id INT NOT NULL,
@@ -22,8 +28,14 @@ CREATE TABLE IF NOT EXISTS construct (
     PRIMARY KEY(construct_id)
 );
 
+CREATE TABLE IF NOT EXISTS stg_construct (
+    construct_id INT NOT NULL,
+    construct_name TEXT,
+    PRIMARY KEY(construct_id)
+);
+
 -- -----------------------------------------
--- Table: topic
+-- Table: topic & its staging table
 -- -----------------------------------------
 CREATE TABLE IF NOT EXISTS topic (
     topic_id INT NOT NULL,
@@ -31,8 +43,14 @@ CREATE TABLE IF NOT EXISTS topic (
     PRIMARY KEY(topic_id)
 );
 
+CREATE TABLE IF NOT EXISTS stg_topic (
+    topic_id INT NOT NULL,
+    topic_name TEXT,
+    PRIMARY KEY(topic_id)
+);
+
 -- -----------------------------------------
--- Table: question
+-- Table: question & its staging table
 -- -----------------------------------------
 CREATE TABLE IF NOT EXISTS question (
     question_id INT NOT NULL,
@@ -40,29 +58,25 @@ CREATE TABLE IF NOT EXISTS question (
     PRIMARY KEY(question_id)
 );
 
+CREATE TABLE IF NOT EXISTS stg_question (
+    question_id INT NOT NULL,
+    question_text TEXT,
+    PRIMARY KEY(question_id)
+);
+
 -- -----------------------------------------
--- Table: question_topic
+-- Table: question_construct_topic
 -- -----------------------------------------
 
-CREATE TABLE question_topic (
+CREATE TABLE IF NOT EXISTS question_construct_topic (
     question_id INT NOT NULL,
     topic_id INT NOT NULL,
-    PRIMARY KEY (question_id, topic_id),
-    FOREIGN KEY (question_id) REFERENCES question(question_id),
-    FOREIGN KEY (topic_id) REFERENCES topic(topic_id)
-);
-
--- -----------------------------------------
--- Table: question_construct
--- -----------------------------------------
-CREATE TABLE question_construct (
-    question_id INT NOT NULL,
     construct_id INT NOT NULL,
-    PRIMARY KEY (question_id, construct_id),
+    PRIMARY KEY (question_id),
     FOREIGN KEY (question_id) REFERENCES question(question_id),
+    FOREIGN KEY (topic_id) REFERENCES topic(topic_id),
     FOREIGN KEY (construct_id) REFERENCES construct(construct_id)
 );
-
 
 -- -----------------------------------------
 -- Table: question_relatquestion_choice_misconceptionionship
