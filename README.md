@@ -13,6 +13,7 @@ Trước khi tạo ra database, tôi sẽ cần xác định các Entity table v
 
 Sau khi xác định được sơ lược các bảng rồi, tôi bắt đầu phác hoạ ra Entity Relationship (ER) Diagram, theo một vài cách khác nhau. Với project phức tạp thì tôi sẽ vẽ ER diagram bằng MySQL trước, sau đó tạo ra Database và dùng forward engineering để lấy SQL code. Nhưng với dự án đơn giản tôi muốn làm ngược lại (để luyện SQL là chính), tạo bằng SQL code rồi export ra ER diagram bằng reverse engineering. Kết quả sau một vài cân nhắc chỉnh sửa được như sau:
 
+![ER diagram](schema.png)
 Hình 1. ER diagram của data từ Eedi
 
 Lần đầu tiên nhìn thấy ER diagram tôi đã thấy sự kết nối giữa các table thật rõ ràng và rất khoa học. Các đường liên kết không chỉ cho thấy sự liên kết giữa các bảng mà còn nói lên loại liên kết đó là gì (1-to-1, 1-to-many, hay many-to-many).
