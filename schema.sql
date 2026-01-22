@@ -73,9 +73,12 @@ CREATE TABLE IF NOT EXISTS question_construct_topic (
     topic_id INT NOT NULL,
     construct_id INT NOT NULL,
     PRIMARY KEY (question_id),
-    FOREIGN KEY (question_id) REFERENCES question(question_id),
-    FOREIGN KEY (topic_id) REFERENCES topic(topic_id),
-    FOREIGN KEY (construct_id) REFERENCES construct(construct_id)
+    CONSTRAINT fk_qct_question
+        FOREIGN KEY (question_id) REFERENCES question(question_id),
+    CONSTRAINT fk_qct_topic
+        FOREIGN KEY (topic_id) REFERENCES topic(topic_id),
+    CONSTRAINT fk_qct_construct
+        FOREIGN KEY (construct_id) REFERENCES construct(construct_id)
 );
 
 -- -----------------------------------------
@@ -89,7 +92,9 @@ CREATE TABLE IF NOT EXISTS question_choice_misconception (
     misconception_id INT,
 
     PRIMARY KEY (question_id, choice_code),
-    FOREIGN KEY (question_id) REFERENCES question(question_id),
-    FOREIGN KEY (misconception_id) REFERENCES misconception(misconception_id)
+    CONSTRAINT fk_qcm_question
+        FOREIGN KEY (question_id) REFERENCES question(question_id),
+    CONSTRAINT fk_qcm_misconception
+        FOREIGN KEY (misconception_id) REFERENCES misconception(misconception_id)
 );
 
