@@ -13,7 +13,7 @@ Trước khi tạo ra database, tôi sẽ cần xác định các Entity table v
 
 Sau khi xác định được sơ lược các bảng rồi, tôi bắt đầu phác hoạ ra Entity Relationship (ER) Diagram, theo một vài cách khác nhau. Với project phức tạp thì tôi sẽ vẽ ER diagram bằng MySQL trước, sau đó tạo ra Database và dùng forward engineering để lấy SQL code. Nhưng với dự án đơn giản tôi muốn làm ngược lại (để luyện SQL là chính), tạo bằng SQL code rồi export ra ER diagram bằng reverse engineering. Kết quả sau một vài cân nhắc chỉnh sửa được như sau:
 
-![ER diagram](schema.png)
+![ER diagram](image/er_diagram.png)
 Hình 1. ER diagram của data từ Eedi
 
 Lần đầu tiên nhìn thấy ER diagram tôi đã thấy sự kết nối giữa các table thật rõ ràng và rất khoa học. Các đường liên kết không chỉ cho thấy sự liên kết giữa các bảng mà còn nói lên loại liên kết đó là gì (1-to-1, 1-to-many, hay many-to-many).
@@ -23,9 +23,11 @@ Trong quá trình thiết kê database tôi cũng học thêm được một con
 
 Ví dụ như ảnh bên dưới, có 4 cột thể thiện phần text cho các đáp án A, B, C, D của mỗi câu hỏi. Các cột này vì 4 cột answer_x_text được tính các nhóm trùng lặp, đều thể hiện một attribute của đối tượng, đo là answer_text.
 
+![data](image/original_data.png)
 Hình 2. Data gốc không thoả mãi điều kiện 1st Normalization Form (1NF)
 Vậy nên tôi sẽ cần xử lí dữ liệu trước khi nạp vào database, đây sẽ là một relationship table vì thể hiện sự liên kết giữa question, choice (text), và misconception. (Chi tiết trong file data_processing.ipynb)
 
+![data2](image/normalized_data.png)
 Hình 3. Data sau khi normalized
 Lúc này data mới sẵn sàng để nạp vào database.
 
@@ -36,6 +38,7 @@ Tác dụng đầu tiên mà tôi thấy ngay đó chính là việc tôi sẽ �
 
 Ngoài ra, tôi ngộ thôi được một tác dụng của staging table, đó chính là có thể tự do chèn data mà không bị ảnh hưởng bởi ràng buộc. Thường các bảng entity sẽ được refer đến các FOREIGN KEY ở các bảng khác, nên bảng sẽ k thể bị xoá và tái thiết lập nếu con kiểu chèn data là if_exists = 'replace', chỉ có thể chèn kiểu if_exists = 'append', tức là thêm tiếp data mới, và vẫn lưu data cũ. Như vậy các bảng chính này sẽ bị lặp data rất nhiều. Thay vì thế, ta sẽ luôn chèn data vào staging table, sau đó, từ staging table update qua bảng chính, cứ trùng key thì sẽ update, k trùng thì tạo mới, hình thức này rất hiệu quả để cập nhật data (còn goi là upsert, có lẽ là update & insert).
 
+![table](image/table_and_staging.png)
 Hình 4. Table và staging table của topic
 
 # III. CONCLUSION
