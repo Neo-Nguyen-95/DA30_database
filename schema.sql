@@ -13,12 +13,6 @@ CREATE TABLE IF NOT EXISTS misconception (
     PRIMARY KEY(misconception_id)
 );
 
-CREATE TABLE IF NOT EXISTS stg_misconception (
-    misconception_id INT NOT NULL,
-    misconception_name VARCHAR(511),
-    PRIMARY KEY(misconception_id)
-);
-
 -- -----------------------------------------
 -- Table: construct
 -- -----------------------------------------
@@ -43,11 +37,6 @@ CREATE TABLE IF NOT EXISTS topic (
 CREATE TABLE IF NOT EXISTS question (
     question_id INT NOT NULL,
     question_text TEXT,
-    correct_answer VARCHAR(1),
-    answer_a_text TEXT,
-    answer_b_text TEXT,
-    answer_c_text TEXT,
-    answer_d_text TEXT,
     PRIMARY KEY(question_id)
 );
 
@@ -80,7 +69,9 @@ CREATE TABLE question_construct (
 -- -----------------------------------------
 CREATE TABLE IF NOT EXISTS question_choice_misconception (
     question_id INT NOT NULL,
-    choice_code VARCHAR(1),
+    choice_code VARCHAR(1) NOT NULL,
+    choice_text TEXT,
+    is_correct TINYINT(1) NOT NULL,
     misconception_id INT,
 
     PRIMARY KEY (question_id, choice_code),
