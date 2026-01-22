@@ -1,3 +1,5 @@
+![thumbnail](image/blog_thumbnail.png)
+
 # I. MOTIVATION
 Dù đã làm data được khá lâu, nhưng hầu hết việc tôi làm đều ở bước phân tích trở đi, tức là đã có sẵn một nguồn data, việc của mình chỉ là lấy được data đó ra, xử lí và phân tích. Tôi chưa từng thực sự tạo ra và quản lí một database đúng nghĩa. Và rồi dạo gần đây, các dự án của công ty bắt đầu thu thập được rất nhiều data, vấn đề  bắt đầu phát sinh từ đây.
 
